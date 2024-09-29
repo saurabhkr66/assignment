@@ -48,10 +48,9 @@ const App = () => {
       {/*
         Limitations:
         1. UI Pagination: Currently uses a "Load More" button instead of traditional pagination controls.
-        2. Infinite Scrolling: Not implemented, which could enhance user experience for loading products seamlessly.
-        3. Error Handling: Basic error messages are displayed; more detailed user feedback can be implemented.
-        4. Performance: Fetching large datasets in batches might still lead to performance issues on slower networks.
-        5. Search Functionality: Currently basic; advanced search features like debouncing or fuzzy search can be added.
+        2. Infinite Scrolling: Not implemented.
+        3. Error Handling: Basic error messages are displayed.
+        4. Search Functionality: Currently basic; advanced search features can be added.
       */}
     </Layout>
   );
